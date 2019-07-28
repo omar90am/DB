@@ -6,3 +6,4 @@ DBConnection.java is responsible of making and closing the connection to the Pos
 FileImporter.java pushing the data to a specefic Table in our Database
 
 test changing 28/7/2019 8:30 PM
+checking the Pull request
